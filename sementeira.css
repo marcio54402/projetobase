@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-family:impact;
+}
+header{
+    background-color: #449DD1;
+}
+h5{
+    text-align: center;
+}
+nav{text-align: center;}
+footer{
+    background-color: #0A0A0A;
+}
+p{
+    text-align: center;
+   color:  white;
+}
+a{
+    text-decoration: none;
+}
+#pparque{
+    padding: 30px 50px;
+    color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: aquamarine;
+    width: 400px;
+    height: 570px; 
+    margin: 50px auto;
+    text-align: center;
+}
+ol{display: inline-block;}
+#h2dasementeira{
+    border: 10px solid #ffffff;
+    border-radius: 80px;
+}
+h2{
+    text-align: center;
+    margin-top: 30;
+}
+

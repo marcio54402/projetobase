@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-family:impact;
+}
+h5{
+    text-align: center;
+}
+nav{text-align: center;}
+
+header{
+    background-color: #449DD1;
+}
+footer{
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: white;
+
+}
+#pdofooter{
+    text-align: center;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#orlap{
+    padding: 30px 50px;
+    color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: aquamarine;
+    width: 400px;
+    height: 510px; 
+    margin: 50px auto;
+    text-align: center;
+}
+ol{ display:inline-block;}
+#h2doroteiro{
+    border: 10px solid #ffffff;
+    border-radius: 80px;
+}
+h2{
+    text-align: center;
+    margin-top: 30;
+}
